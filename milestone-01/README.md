@@ -1,8 +1,4 @@
 # Milestone 1: Formulate Topics
 
-Some introduction text.
-
-- BM25 with porter stemmer vs BM25 with lemmatization: corpora vs corpus
-
-- BM25 vs ACNE: "bm25 rm3"
-
+- [baseline-retrieval-system.ipynb](baseline-retrieval-system.ipynb): contains a baseline retrieval system that you can use to construct your information needs (topics).
+- [data-access.ipynb](data-access.ipynb): contains examples on how to access the corpus.
