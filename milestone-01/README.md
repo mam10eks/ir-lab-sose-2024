@@ -5,6 +5,6 @@
 
 # Deliverable for Milestone 1:
 
-Please replace the content of the [topics.xml] file with the topics of your team.
-The topics must be in the same format as provided (the standard TREC XML format), you can test that your file has the correct format and that the data is correctly parsed via the [data-access.ipynb](data-access.ipynb) notebook.
+Please replace the content of the [topics.xml](topics.xml) file with the topics that you constructed in your team.
+The topics must be in the same format as initially provided (the standard TREC XML format), you can test that your file has the correct format and that the data is correctly parsed via the [data-access.ipynb](data-access.ipynb) notebook.
 
