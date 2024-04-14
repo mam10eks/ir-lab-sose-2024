@@ -1,0 +1,17 @@
+<topics>
+    <topic number = "1">
+        <title>social media detect self-harm</title>
+        <description>Which papers focus on how to recognize signs of self-harm in people's social media posts?</description>
+        <narrative>Relevant papers include research on early detection of self-harm on social media platforms such as Facebook, Instagram, Reddit, Twitter and co. Papers that addresses mental health issues like depression or anorexia are not relevant. Furthermore, papers that deal with self-harm but are not related to social media are also not relevant. TODO: This topic is only an example, replace it with your own topic or delete it. </narrative>
+    </topic>
+    <topic number = "2">
+        <title>stemming for arabic languages</title>
+        <description>Which papers focus on improving stemming in arabic languages?</description>
+        <narrative>Relevant papers include research on stemming methods for arabic languages or how to improve those methods. Papers that focus on stemming in other languages are not relevant, as well as papers that do not focus on stemming. TODO: This topic is only an example, replace it with your own topic or delete it. </narrative>
+    </topic>
+    <topic number = "3">
+        <title>tbd...</title>
+        <description>tbd.</description>
+        <narrative>tbd. TODO: This topic is only an example, replace it with your own topic or delete it. </narrative>
+    </topic>
+</topics>
